@@ -1,0 +1,11 @@
+/Connection.class
+/Layer.class
+/MnistDataReader.class
+/MnistMatrix.class
+/NeuralNetwork.class
+/Node.class
+/main.class
+/t10k-images.idx3-ubyte
+/t10k-labels.idx1-ubyte
+/train-images.idx3-ubyte
+/train-labels.idx1-ubyte
